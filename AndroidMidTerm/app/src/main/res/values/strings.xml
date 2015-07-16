@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AndroidMidTerm</string>
+
+    <string name="title">猜數字遊戲</string>
+    <string name="inputHint">Hint: Input 3 numbers here</string>
+    <string name="submitAnswer">送出答案</string>
+    <string name="playAgain">再玩一次</string>
+    <string name="recordTitle">遊戲紀錄</string>
+    <string name="recordHeader"                >#  | Your guess | Hint</string>
+    <string name="recordSplit"                 >----------------------</string>
+    <string name="recordBody" formatted="false">%2d | %3s       | %1dA%1dB</string>
+    <string name="win">你猜到了！</string>
+    <string name="lose">喔不，超過最大猜測次數！</string>
+    <string name="invalid">你的答案不合法，必須要有三個數字並且三個數字不一樣</string>
+    <string name="action_settings">Settings</string>
+</resources>

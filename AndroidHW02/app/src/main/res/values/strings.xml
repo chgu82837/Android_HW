@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AndroidHW02</string>
+
+    <string name="hello_world">Hello world! Please click a button above!</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn1">I am button 1</string>
+    <string name="btn2">I am button 2</string>
+    <string name="ext">前往延伸題</string>
+
+    <string name="btn1_msg">Hey, Button 1 is clicked!</string>
+    <string name="btn2_msg">Greetings! Button 2 is clicked!</string>
+    <string name="title_activity_ext">ExtActivity</string>
+
+    <string name="ext_msg">電話號碼:</string>
+    <string name="clear_t">清除</string>
+</resources>
